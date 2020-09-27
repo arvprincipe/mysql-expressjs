@@ -3,6 +3,7 @@ REST API Express JS y MySQL
 
 My name is Alex Principe. I'm a Full stack developer who shares programming code with the community.
 This repo contains a little example of rest api build using javascript and express js and MySQL- MVC.
+![alt text](https://github.com/arvprincipe/mysql-expressjs/blob/master/img/api.jpg?raw=true)
 
 ## 👋 Say Hello
 
