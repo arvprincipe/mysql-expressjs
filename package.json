@@ -1,0 +1,30 @@
+{
+  "name": "mysql-expressjs",
+  "version": "1.0.0",
+  "description": "REST API Express JS y MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvprincipe/mysql-expressjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arvprincipe/mysql-expressjs/issues"
+  },
+  "homepage": "https://github.com/arvprincipe/mysql-expressjs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "promise-mysql": "^4.1.3",
+    "promise-mysql2": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
