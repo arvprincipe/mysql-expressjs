@@ -27,7 +27,9 @@ Yes! Anyone is welcome to contribute to the quality of this content. Please feel
 ```bash
 npm install
 ```
+- Configure you database credentials
 
+- init server
 ```bash
 npm start
 ```
